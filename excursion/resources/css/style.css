@@ -1,12 +1,11 @@
-* {
+body {
   background-color: black;
-  font-family: verdana;
+  font-family: verdana, sans-serif;
   text-align: center;
 }
 .cta {
   color: aquamarine;
   font-size: 18px;
-  text-align: center;
 }
 
 h1 {
@@ -24,13 +23,6 @@ h2 {
 p {
   font-size: 21px;
   color: gray;
-}
-
-video,
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .footer p {
